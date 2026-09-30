@@ -1,0 +1,16 @@
+{
+  "name": "veda-technology-backend",
+  "version": "1.0.0",
+  "description": "Node.js and Express backend for VEDA TECHNOLOGY website",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "keywords": ["veda", "technology", "express", "backend", "portfolio"],
+  "author": "PIRKOJI VENKATESH",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1"
+  }
+}
